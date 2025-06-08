@@ -1,7 +1,7 @@
 # 🌟 Portfólio - Rodrigo Vinhas Marques
 
 ## 📌 Sobre o Projeto
-Este portfólio foi criado para compartilhar minha trajetória em Ciência da Computação, destacando meus projetos e interesses na área de desenvolvimento de software. 
+Este [portfólio](https://portfoliorodrigovinhasmarques.netlify.app/) foi criado para compartilhar minha trajetória em Ciência da Computação, destacando meus projetos e interesses na área de desenvolvimento de software. 
 Meu objetivo é demonstrar como a tecnologia pode ser utilizada para impactar positivamente a sociedade e resolver problemas reais.
 
 ## 🎨 Layout e Estilo
